@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+camel:
+  component:
+    servlet:
+      mapping: 
+        context-path: /*
